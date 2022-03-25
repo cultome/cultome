@@ -53,5 +53,7 @@ $ glow TODO.md
   [ ] Defragment my HDD
   [ ] Find a way to live near the beach (maybe)
   
-$ exit
+$ exit 0
+
+Connection closed by 201.168.34.102 port 22
 ```
