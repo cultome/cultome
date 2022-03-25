@@ -7,6 +7,8 @@
 \ \____\\ \____/ /\____\\ \__\ \____/\ \_\ \_\ \_\ \____\
  \/____/ \/___/  \/____/ \/__/\/___/  \/_/\/_/\/_/\/____/
  
+ Linux cultome 5.15.28-1-MANJARO #1 SMP PREEMPT Fri Mar 17 10:12:37 UTC 2024 x86_64 GNU/Linux
+ 
 $ tree .
 .
 ├── bio.txt
@@ -14,7 +16,7 @@ $ tree .
 │   ├── aws
 │   ├── dbs
 │   │   ├── elasticsearch.backup
-│   │   ├── neo4j.shp
+│   │   ├── neo4j.db
 │   │   ├── pg.bin
 │   │   └── redis.mem
 │   └── langs
@@ -22,9 +24,10 @@ $ tree .
 │       ├── golang.png
 │       ├── java.gif
 │       ├── javascript.jpg
-│       ├── nim.jpg
-│       ├── python.png
-│       └── ruby.png
+│       ├── nim.tiff
+│       ├── python.bmp
+│       └── ruby.eps
+│       └── php.xcf
 └── TODO.md
 
 $ hexdump techs/aws
