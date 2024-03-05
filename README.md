@@ -48,7 +48,7 @@ $ glow TODO.md
 
   [✓] Update my GH profile
   [ ] Learn Prolog, Racket and Lisp before I die
-  [ ] Finish HL Alyx
+  [✓] Finish HL Alyx
   [ ] Finish previous years of AoC
   [ ] Defragment my HDD
   [ ] Find a way to live near the beach (maybe)
